@@ -75,4 +75,4 @@ The `Redemption` Object has three getters, `get_command()` which returns the com
 The `Redemption` Object also has a method called `to_message` which returns a string in the format `{guest} has redeemed the reward {name}`. 
 
 ## Issues/Feedback
-If you encounter any problems, or have suggestions for future updates, feel free to leave them over in the [Issue Tracker](https://github.com/BackSeatGamerCode/PythonSDK/issues). Alternatively, if you have questions or want to discuss something with your fellow Java modders, then check out our [Discussions](https://github.com/BackSeatGamerCode/PythonSDK/discussions). Thank you for using Java modding SDK, and good luck with your mod!
+If you encounter any problems, or have suggestions for future updates, feel free to leave them over in the [Issue Tracker](https://github.com/BackSeatGamerCode/PythonSDK/issues). Alternatively, if you have questions or want to discuss something with your fellow Python modders, then check out our [Discussions](https://github.com/BackSeatGamerCode/PythonSDK/discussions). Thank you for using Python modding SDK, and good luck with your mod!
